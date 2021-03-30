@@ -1,0 +1,39 @@
+body {
+  background-color: red;
+}
+
+h1 {
+  color: black;
+    text-align:center;
+  margin-left: 100px;
+}
+
+p {
+  color: black;
+    text-align:center;
+  margin-left: 100px;
+    font-size: 30px;
+}
+
+body {
+  color: black;
+    text-align:center;
+  margin-left: 100px;
+}
+
+button
+{
+    border:none;
+    color:green;  
+    font-size: 70px;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}   
+
+
